@@ -8,7 +8,7 @@
 - 🎓 I’m student **MIREA**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="bogdanvoinov90@gmail.com"> Моя Почта </a> <h3>     </h3><a href="https://t.me/bagnutiii" margin-left=100px> Мой Телеграмм </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

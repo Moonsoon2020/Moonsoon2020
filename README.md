@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Quick Tutor**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Kotlin**
 
 - 🎓 I’m student **MIREA**
 

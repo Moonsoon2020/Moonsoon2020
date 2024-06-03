@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">Я программист на Java, занимаюсь разработкой мобильных приложений, а также начинающий ML программист.</h3>
+<h3 align="center">Я программист на Java, занимаюсь разработкой мобильных приложений, а также начинающий ML специалист.</h3>
 
-- 🔭 I’m currently working on **Quick Tutor**
+- 🔭 I’m currently working on **???**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **SQLearn**
 
 - 🎓 I’m student **MIREA**
 
